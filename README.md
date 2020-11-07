@@ -1,1 +1,1 @@
-Repositório de projetos baseados no Code/Drops da Rocketseat
+Repositório de projetos baseados no Code/Drops Beginners da Rocketseat
