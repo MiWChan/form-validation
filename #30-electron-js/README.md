@@ -2,22 +2,14 @@
 
 ## Install & Run 
 
-Clone the repository
-```sh
-$ git clone <repo>
-```
+### Clone the repository
+`git clone <repo>`
 
-Go into the repository
-```sh
-cd <repo>
-```
+### Go into the repository
+`cd <repo>`
 
-Install dependencies
-```sh
-npm install
-```
+### Install dependencies
+`npm install`
 
-Run the app
-```sh
-npm start
-```
+### Run the app
+`npm start`
