@@ -1,15 +1,23 @@
-#Simple Webview with ElectronJS | Code/Drops #30
+# Simple Webview with ElectronJS | Code/Drops #30
 
-##Install & Run 
+## Install & Run 
 
-###Clone the repository
-git clone <repo>
+Clone the repository
+```sh
+$ git clone <repo>
+```
 
-###Go into the repository
+Go into the repository
+```sh
 cd <repo>
+```
 
-###Install dependencies
+Install dependencies
+```sh
 npm install
+```
 
-###Run the app
+Run the app
+```sh
 npm start
+```
