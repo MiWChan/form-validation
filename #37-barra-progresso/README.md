@@ -1,0 +1,1 @@
+Criando barra de percentual de leitura com JS | Code/Drops #37
