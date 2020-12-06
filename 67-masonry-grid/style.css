@@ -1,0 +1,36 @@
+body {
+  background-color: #272527;
+}
+
+img {
+  width: 100%;
+  border-radius: 4px;
+}
+
+figure {
+  margin: 0;
+  display: flex;
+  break-inside: avoid;
+}
+
+/*.container {
+  column-count: 5;
+  column-gap: 10px;
+}*/
+
+.container {
+  display: grid;
+  gap: 10px;
+  /*grid-template-columns: 1fr [box-start] 1fr 1fr [box-end] 1fr;*/
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: masonry;
+}
+
+.positioned {
+  grid-column: box-start / box-end;
+  border: 5px solid white;
+}
+
+.landscape {
+    grid-column-end: span 2;
+}
